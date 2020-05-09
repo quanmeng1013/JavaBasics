@@ -1,4 +1,4 @@
-package com.basic;
+package com.basic.skip;
 
 public class Basic_01 {
 

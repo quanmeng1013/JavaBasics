@@ -1,4 +1,4 @@
-package com.basic;
+package com.basic.skip;
 
 /**
  * 测试包装类
